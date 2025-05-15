@@ -11,15 +11,20 @@ This project simulates key reporting features of Oracle HCM Cloud using a synthe
 #### 1. HCM Insights: Benefits Enrollment by Department
 Stacked column chart showing enrollment status across business units.
 
+![](ben_dept.png)
+
 #### 2. HCM Overview: Company Gender Distribution
 Pie chart showing gender representation across the organization.
 
+![](comp_gen_distrb.png)
 #### 3. Workforce Composition: Gender by Department
 Bar chart comparing male vs. female headcount by department.
 
+![](gen_dept.png)
 #### 4. Compensation Analysis: Average Salary by Department
 Vertical bar chart showing average annual salary across departments.
 
+![](sal_dept.png)
 ### Tools & Skills
 - Google Sheets / Excel: Pivot tables, data visualization, styling
 
