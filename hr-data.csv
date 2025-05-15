@@ -1,0 +1,151 @@
+Employee ID,First Name,Gender,Department,Job Title,Hire Date,Annual Salary,Benefits Enrollment,Location
+1,Kathy,Male,Sales,Sales Associate,2024-03-30,80122,No,"Armonk, NY"
+2,Willie,Male,Marketing,Marketing Coordinator,2017-04-07,147419,Yes,Toronto
+3,John,Male,Finance,Accountant,2016-01-27,133820,No,"Armonk, NY"
+4,Melissa,Male,HR,HR Manager,2017-09-01,87543,Yes,"Armonk, NY"
+5,Laura,Male,Engineering,Software Engineer,2021-07-09,109572,No,Toronto
+6,Ashley,Female,Engineering,Software Engineer,2020-05-26,103931,No,Toronto
+7,Carla,Male,HR,Recruiter,2022-08-16,78940,No,Calgary
+8,Victoria,Female,Finance,Financial Analyst,2022-09-12,69081,No,Toronto
+9,Alexis,Male,Finance,Accountant,2019-05-13,69585,No,Vancouver
+10,Angela,Male,Sales,Sales Associate,2020-10-17,83622,Yes,Vancouver
+11,Leslie,Female,Engineering,DevOps Engineer,2017-05-03,93533,Yes,"Armonk, NY"
+12,Rachel,Female,HR,Recruiter,2023-10-17,111937,Yes,Vancouver
+13,Angela,Male,Sales,Account Executive,2018-10-12,64903,Yes,"Armonk, NY"
+14,James,Male,Sales,Account Executive,2024-07-14,82815,Yes,Vancouver
+15,Eric,Male,Finance,Accountant,2019-08-13,145205,No,"Armonk, NY"
+16,Kelly,Male,HR,Recruiter,2023-03-29,85291,No,Vancouver
+17,Christian,Female,Finance,Accountant,2022-08-15,109917,Yes,Calgary
+18,Katie,Male,Marketing,SEO Specialist,2017-06-26,128326,No,Toronto
+19,Tiffany,Male,Sales,Sales Associate,2022-08-15,113327,No,Toronto
+20,Nancy,Male,Marketing,Marketing Coordinator,2016-08-06,143562,Yes,Vancouver
+21,John,Female,Marketing,SEO Specialist,2017-02-16,71182,Yes,"Armonk, NY"
+22,Mark,Male,Marketing,Marketing Coordinator,2024-10-23,114197,No,Toronto
+23,Trevor,Male,Marketing,SEO Specialist,2024-05-28,144801,No,Calgary
+24,Jose,Female,Finance,Accountant,2024-05-09,88683,Yes,Toronto
+25,Bob,Male,Sales,Sales Associate,2019-06-29,115790,Yes,Toronto
+26,John,Female,Finance,Financial Analyst,2015-09-17,126747,Yes,Toronto
+27,Kathleen,Female,Finance,Financial Analyst,2022-06-14,84539,No,Calgary
+28,Joshua,Male,HR,Recruiter,2024-05-07,73655,Yes,Calgary
+29,Matthew,Male,HR,HR Manager,2018-12-19,135337,No,Vancouver
+30,Brandon,Male,HR,HR Manager,2021-06-02,86701,No,Calgary
+31,Jennifer,Female,Engineering,Software Engineer,2020-11-02,66237,Yes,Calgary
+32,Christina,Male,Marketing,Marketing Coordinator,2015-07-06,135558,Yes,"Armonk, NY"
+33,Samuel,Male,Engineering,Software Engineer,2021-09-04,94612,No,Vancouver
+34,Nancy,Female,Finance,Financial Analyst,2021-10-27,95310,No,Toronto
+35,Luke,Male,Sales,Account Executive,2018-02-14,133186,Yes,Calgary
+36,Terri,Female,Engineering,Software Engineer,2019-03-14,104367,No,Calgary
+37,Melissa,Male,HR,Recruiter,2022-12-20,144968,No,"Armonk, NY"
+38,Michael,Female,Engineering,Software Engineer,2020-10-26,71475,Yes,Toronto
+39,Harold,Female,Sales,Sales Associate,2019-07-04,134804,No,Calgary
+40,Cheryl,Male,HR,HR Manager,2017-11-19,126152,No,"Armonk, NY"
+41,Keith,Female,Engineering,DevOps Engineer,2020-04-30,104969,No,Vancouver
+42,Susan,Female,Sales,Sales Associate,2024-02-17,84975,Yes,Toronto
+43,Cynthia,Female,Marketing,Marketing Coordinator,2020-10-06,144708,No,Toronto
+44,Wesley,Male,Finance,Financial Analyst,2015-12-02,71192,No,Toronto
+45,Megan,Male,Marketing,Marketing Coordinator,2017-02-17,123113,No,Toronto
+46,Steve,Female,Sales,Sales Associate,2022-12-03,76945,No,Calgary
+47,Claudia,Female,HR,HR Manager,2024-08-20,105005,No,Vancouver
+48,Stephanie,Female,Marketing,Marketing Coordinator,2018-06-24,74127,No,"Armonk, NY"
+49,Linda,Female,HR,Recruiter,2024-05-11,141236,No,Toronto
+50,Patrick,Male,HR,HR Manager,2023-06-22,143705,No,Calgary
+51,Katie,Male,Finance,Financial Analyst,2023-10-20,108398,No,Calgary
+52,Mary,Female,Engineering,Software Engineer,2023-02-04,143042,Yes,Calgary
+53,Lisa,Female,Finance,Accountant,2025-01-02,100211,Yes,Calgary
+54,Cassidy,Female,Sales,Account Executive,2021-08-27,110949,Yes,Calgary
+55,Joseph,Male,Finance,Accountant,2021-09-02,95299,Yes,Calgary
+56,Amanda,Female,Marketing,SEO Specialist,2018-05-15,81048,No,Vancouver
+57,Michael,Male,HR,HR Manager,2024-12-27,70744,Yes,Toronto
+58,Christine,Female,Engineering,Software Engineer,2017-11-28,115973,No,Toronto
+59,Mark,Female,Finance,Accountant,2021-06-29,131439,No,Calgary
+60,Debra,Female,Engineering,DevOps Engineer,2024-09-30,121522,No,"Armonk, NY"
+61,Stephanie,Female,Engineering,DevOps Engineer,2020-02-19,129229,No,Toronto
+62,Joseph,Male,HR,HR Manager,2023-05-15,71600,No,Calgary
+63,Brian,Female,HR,HR Manager,2016-09-18,97047,Yes,"Armonk, NY"
+64,Jennifer,Male,Sales,Account Executive,2017-08-25,84590,Yes,"Armonk, NY"
+65,Kurt,Male,Finance,Financial Analyst,2015-05-20,121672,No,Toronto
+66,Jonathan,Female,HR,HR Manager,2018-07-25,144535,No,Vancouver
+67,James,Male,Finance,Financial Analyst,2016-11-07,61363,No,Calgary
+68,Rachel,Female,Sales,Sales Associate,2024-08-05,107813,Yes,Calgary
+69,Julie,Female,Engineering,DevOps Engineer,2023-08-21,81799,Yes,Calgary
+70,David,Female,Finance,Financial Analyst,2019-05-28,120974,No,"Armonk, NY"
+71,Jennifer,Female,Marketing,Marketing Coordinator,2021-08-11,136837,Yes,Calgary
+72,Charles,Male,HR,HR Manager,2021-03-26,103840,No,"Armonk, NY"
+73,Maureen,Male,Finance,Financial Analyst,2023-08-23,108920,Yes,"Armonk, NY"
+74,Christopher,Male,HR,Recruiter,2015-07-25,85457,Yes,Toronto
+75,Justin,Female,Finance,Accountant,2023-04-29,122760,No,"Armonk, NY"
+76,David,Female,Sales,Account Executive,2020-05-03,72549,Yes,"Armonk, NY"
+77,Jonathan,Male,Marketing,Marketing Coordinator,2020-08-01,62105,Yes,Vancouver
+78,Kevin,Female,HR,Recruiter,2022-11-22,102676,Yes,Toronto
+79,David,Female,HR,HR Manager,2024-12-15,121582,No,Toronto
+80,Dawn,Male,Finance,Financial Analyst,2025-02-06,128469,Yes,Calgary
+81,Kayla,Male,HR,Recruiter,2019-07-08,104768,Yes,Vancouver
+82,Rachel,Female,Marketing,Marketing Coordinator,2022-08-16,86377,No,Calgary
+83,Megan,Female,Sales,Account Executive,2024-10-03,127353,No,Toronto
+84,Cameron,Female,Sales,Sales Associate,2022-09-27,141040,Yes,"Armonk, NY"
+85,Robert,Female,Finance,Financial Analyst,2021-05-09,137051,No,Vancouver
+86,Nicole,Female,Sales,Sales Associate,2017-07-11,130434,No,"Armonk, NY"
+87,Jason,Female,Finance,Financial Analyst,2020-10-05,149346,Yes,"Armonk, NY"
+88,Sandra,Female,Sales,Sales Associate,2020-06-07,97236,No,"Armonk, NY"
+89,George,Male,Finance,Financial Analyst,2016-09-11,104058,Yes,Calgary
+90,Susan,Female,HR,HR Manager,2016-05-21,78158,No,Vancouver
+91,Fernando,Male,Engineering,DevOps Engineer,2023-10-04,70215,Yes,Vancouver
+92,Christie,Male,Finance,Financial Analyst,2018-05-04,140749,Yes,Toronto
+93,Kimberly,Male,HR,HR Manager,2018-01-24,148601,No,"Armonk, NY"
+94,Anne,Male,Finance,Financial Analyst,2016-08-13,77485,No,Vancouver
+95,James,Male,Engineering,Software Engineer,2019-05-17,101219,Yes,Vancouver
+96,Ashley,Female,Finance,Financial Analyst,2015-06-16,94413,No,"Armonk, NY"
+97,Tina,Male,Finance,Financial Analyst,2016-08-09,128489,Yes,Toronto
+98,Gilbert,Female,HR,HR Manager,2019-06-21,75251,No,Toronto
+99,James,Female,Engineering,DevOps Engineer,2021-09-30,74737,Yes,Vancouver
+100,Jeffrey,Female,HR,Recruiter,2015-10-19,82314,No,Vancouver
+101,William,Female,Finance,Financial Analyst,2024-12-16,121866,Yes,Vancouver
+102,Cynthia,Female,Marketing,Marketing Coordinator,2016-02-19,82161,Yes,"Armonk, NY"
+103,Jonathan,Female,Sales,Account Executive,2023-07-29,136178,No,Calgary
+104,Jose,Female,Marketing,SEO Specialist,2024-01-15,72620,No,Toronto
+105,Melissa,Male,Finance,Accountant,2023-12-25,81402,No,"Armonk, NY"
+106,William,Female,Engineering,Software Engineer,2019-10-26,94441,Yes,Calgary
+107,Meredith,Female,HR,HR Manager,2025-02-23,123166,Yes,Toronto
+108,Jared,Female,HR,HR Manager,2020-03-03,118859,No,"Armonk, NY"
+109,Michael,Female,Marketing,Marketing Coordinator,2020-09-11,100407,Yes,Vancouver
+110,Blake,Female,Marketing,SEO Specialist,2021-12-18,120307,No,Calgary
+111,Laura,Male,Sales,Account Executive,2024-04-10,76467,No,Calgary
+112,Peter,Female,Finance,Accountant,2023-11-14,83403,No,Toronto
+113,Kirk,Male,HR,HR Manager,2018-07-28,63097,Yes,Vancouver
+114,Kathryn,Female,Engineering,DevOps Engineer,2018-05-09,90893,Yes,Vancouver
+115,Samuel,Female,Finance,Accountant,2020-03-25,91781,No,Vancouver
+116,Mark,Male,Marketing,Marketing Coordinator,2024-03-30,102461,Yes,Calgary
+117,Russell,Male,Finance,Accountant,2022-11-25,108589,Yes,Calgary
+118,Kristina,Male,HR,HR Manager,2016-01-14,120282,Yes,Calgary
+119,Jeffery,Female,HR,HR Manager,2022-12-28,119888,No,Calgary
+120,Shannon,Female,Finance,Accountant,2021-02-09,131886,No,Toronto
+121,Allison,Male,HR,Recruiter,2019-04-24,85960,Yes,Vancouver
+122,Anne,Female,Marketing,Marketing Coordinator,2023-12-06,109569,No,Toronto
+123,Ashley,Male,Sales,Sales Associate,2016-07-09,73616,Yes,Toronto
+124,Kenneth,Male,Marketing,SEO Specialist,2016-03-16,69681,No,Calgary
+125,Lee,Male,Engineering,DevOps Engineer,2019-10-29,67709,No,Vancouver
+126,Andrew,Female,HR,Recruiter,2025-03-30,82409,Yes,"Armonk, NY"
+127,Michelle,Female,Sales,Sales Associate,2021-12-21,121288,No,Calgary
+128,David,Female,Finance,Financial Analyst,2017-06-15,107555,Yes,Calgary
+129,Richard,Male,Sales,Sales Associate,2023-06-24,101052,No,Toronto
+130,Kayla,Male,HR,HR Manager,2024-05-10,64103,Yes,Calgary
+131,Christopher,Female,Finance,Accountant,2018-08-15,60121,Yes,Calgary
+132,Maria,Female,HR,HR Manager,2019-11-29,106346,Yes,Calgary
+133,Jennifer,Female,Marketing,Marketing Coordinator,2015-12-04,80548,No,Vancouver
+134,Benjamin,Male,Sales,Sales Associate,2022-04-28,62668,No,Calgary
+135,Joseph,Male,Sales,Sales Associate,2016-01-08,87666,No,Calgary
+136,David,Female,Engineering,Software Engineer,2018-10-19,100124,No,Calgary
+137,Seth,Female,HR,Recruiter,2023-05-04,102931,Yes,Toronto
+138,Bobby,Male,Engineering,DevOps Engineer,2021-12-15,64444,No,"Armonk, NY"
+139,Caitlin,Male,Engineering,Software Engineer,2019-07-05,83701,Yes,Vancouver
+140,Sara,Female,HR,HR Manager,2022-07-25,148319,No,Vancouver
+141,Elizabeth,Female,Finance,Financial Analyst,2020-12-29,130923,No,"Armonk, NY"
+142,Blake,Male,Sales,Sales Associate,2021-01-13,135804,Yes,Calgary
+143,Gregory,Female,HR,Recruiter,2021-05-02,115456,No,Vancouver
+144,Steven,Male,Marketing,Marketing Coordinator,2016-08-18,76591,Yes,Toronto
+145,Nicholas,Male,Finance,Financial Analyst,2016-03-27,147635,Yes,"Armonk, NY"
+146,Jessica,Male,Sales,Sales Associate,2019-06-21,99128,Yes,Calgary
+147,Natalie,Female,HR,Recruiter,2020-10-18,66792,Yes,"Armonk, NY"
+148,Andrea,Male,Finance,Financial Analyst,2017-05-13,125573,No,Toronto
+149,Michelle,Male,Marketing,Marketing Coordinator,2017-08-14,90064,Yes,"Armonk, NY"
+150,Robert,Female,HR,HR Manager,2023-04-18,135862,Yes,Toronto
