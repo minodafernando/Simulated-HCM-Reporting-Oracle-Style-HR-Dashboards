@@ -1,4 +1,4 @@
-# 📊 Simulated HCM Reporting: Oracle-Style HR Dashboards 📝
+# Simulated HCM Reporting: Oracle-Style HR Dashboards
 
 This project simulates key reporting features of Oracle HCM Cloud using a synthetic HR dataset. Designed to reflect the responsibilities of an IBM Application Package Specialist, it demonstrates business analysis, HR process understanding, and BI-style dashboard creation.
 
